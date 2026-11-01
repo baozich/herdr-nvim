@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.3](https://github.com/ChmaraX/herdr-nvim/compare/v1.2.2...v1.2.3) (2026-11-01)
+
+
+### Bug Fixes
+
+* **daemon:** stop hanging when a tab's nvim daemon stops answering ([#63](https://github.com/ChmaraX/herdr-nvim/issues/63)) ([26cd43e](https://github.com/ChmaraX/herdr-nvim/commit/26cd43e38126be8012b59f95fd41ef33574d0d08))
+
 ## [1.2.2](https://github.com/ChmaraX/herdr-nvim/compare/v1.2.1...v1.2.2) (2026-10-20)
 
 
